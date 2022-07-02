@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.e8b9bfcc.css",
-    "main.js": "./static/js/main.58c3c110.js",
+    "main.css": "./static/css/main.acc328ba.css",
+    "main.js": "./static/js/main.4ec5cd26.js",
     "static/js/787.d486f947.chunk.js": "./static/js/787.d486f947.chunk.js",
+    "static/media/paisagem7.jpg": "./static/media/paisagem7.0254a0803430206f845a.jpg",
+    "static/media/paisagem9.jpg": "./static/media/paisagem9.b631cb37526955c382f9.jpg",
     "static/media/retrato2.jpg": "./static/media/retrato2.a27d5902027461623431.jpg",
     "static/media/retrato9.jpg": "./static/media/retrato9.b678b8a40458ac2aaf08.jpg",
     "static/media/retrato7.jpg": "./static/media/retrato7.a64d3746a4d0b299901d.jpg",
     "static/media/paisagem8.jpg": "./static/media/paisagem8.caf0afe170aa3cc4d23d.jpg",
-    "static/media/paisagem7.jpg": "./static/media/paisagem7.3e537eba04e20e99f62f.jpg",
-    "static/media/paisagem9.jpg": "./static/media/paisagem9.b55101c83369b466d8c3.jpg",
     "static/media/retrato5.jpg": "./static/media/retrato5.97bc72bad8d03b8d82d3.jpg",
     "static/media/retrato8.jpg": "./static/media/retrato8.3daa786d536b8c0031a0.jpg",
     "static/media/paisagem3.jpg": "./static/media/paisagem3.0d4822a782ba5b7609ec.jpg",
@@ -22,12 +22,12 @@
     "static/media/paisagem5.jpg": "./static/media/paisagem5.7f07a8bdf3d9750ea8e6.jpg",
     "static/media/paisagem6.jpg": "./static/media/paisagem6.818a88580dfa6cec11ba.jpg",
     "index.html": "./index.html",
-    "main.e8b9bfcc.css.map": "./static/css/main.e8b9bfcc.css.map",
-    "main.58c3c110.js.map": "./static/js/main.58c3c110.js.map",
+    "main.acc328ba.css.map": "./static/css/main.acc328ba.css.map",
+    "main.4ec5cd26.js.map": "./static/js/main.4ec5cd26.js.map",
     "787.d486f947.chunk.js.map": "./static/js/787.d486f947.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8b9bfcc.css",
-    "static/js/main.58c3c110.js"
+    "static/css/main.acc328ba.css",
+    "static/js/main.4ec5cd26.js"
   ]
 }
